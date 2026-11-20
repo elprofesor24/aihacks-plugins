@@ -10,5 +10,6 @@
   "icon": "./assets/icon.png",
   "homepage": "https://aihacks.cz",
   "license": "MIT",
+  "displayName": "České právo",
   "privacyPolicyUrl": "https://aihacks.cz/soukromi/"
 }
