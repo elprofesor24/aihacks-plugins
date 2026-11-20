@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ceske-pravo": {
+      "type": "http",
+      "url": "https://app.aihacks.cz/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ceske-pravo",
+  "version": "0.1.1",
+  "description": "Metodiky 50 oblastí českého práva pro AI agenty přes účet AIhacks.",
+  "author": {
+    "name": "MaxStrategy s.r.o.",
+    "email": "info@aihacks.cz",
+    "url": "https://maxstrategy.cz"
+  },
+  "icon": "./assets/icon.png",
+  "homepage": "https://aihacks.cz",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://aihacks.cz/soukromi/"
+}
