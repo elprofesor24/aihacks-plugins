@@ -11,5 +11,9 @@
   "homepage": "https://aihacks.cz",
   "license": "MIT",
   "displayName": "České právo",
-  "privacyPolicyUrl": "https://aihacks.cz/soukromi/"
+  "privacyPolicyUrl": "https://aihacks.cz/soukromi/",
+  "termsOfServiceUrl": "https://aihacks.cz/podminky/",
+  "documentationUrl": "https://aihacks.cz/pripojit/legal-cz/",
+  "supportUrl": "mailto:info@aihacks.cz",
+  "repository": "https://github.com/elprofesor24/aihacks-plugins"
 }
