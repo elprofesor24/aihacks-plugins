@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cybersecurity": {
+      "type": "http",
+      "url": "https://app.aihacks.cz/mcp/cybersecurity"
+    }
+  }
+}

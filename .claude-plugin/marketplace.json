@@ -13,6 +13,15 @@
       "author": {
         "name": "MaxStrategy s.r.o."
       }
+    },
+    {
+      "name": "cybersecurity",
+      "source": "./plugins/cybersecurity",
+      "description": "Security workflows and vulnerability checks for AI coding agents and MCP servers, through an AIhacks account.",
+      "version": "0.1.0",
+      "author": {
+        "name": "MaxStrategy s.r.o."
+      }
     }
   ]
 }

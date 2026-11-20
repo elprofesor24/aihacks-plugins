@@ -1,0 +1,19 @@
+{
+  "name": "cybersecurity",
+  "version": "0.1.0",
+  "description": "Security workflows and vulnerability checks for AI coding agents and MCP servers, through an AIhacks account.",
+  "author": {
+    "name": "MaxStrategy s.r.o.",
+    "email": "info@aihacks.cz",
+    "url": "https://maxstrategy.cz"
+  },
+  "icon": "./assets/icon.png",
+  "homepage": "https://aihacks.cz",
+  "license": "MIT",
+  "displayName": "Cybersecurity",
+  "privacyPolicyUrl": "https://aihacks.cz/soukromi/",
+  "termsOfServiceUrl": "https://aihacks.cz/podminky/",
+  "documentationUrl": "https://aihacks.cz/cybersecurity/",
+  "supportUrl": "https://aihacks.cz/#kontakt",
+  "repository": "https://github.com/elprofesor24/aihacks-plugins"
+}
